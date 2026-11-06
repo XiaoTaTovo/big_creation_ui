@@ -1,0 +1,7 @@
+build/
+**/obj/
+*.bak
+*.log
+__pycache__/
+.mrs/
+.vscode/
